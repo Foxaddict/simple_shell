@@ -1,1 +1,1 @@
-This is simple shell project done by shina and felix
+This is a repository for simple shell project by Shola and Felix
